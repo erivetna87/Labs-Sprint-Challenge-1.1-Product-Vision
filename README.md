@@ -30,12 +30,17 @@ Copy and paste these prompts into a `Google Doc`. Steps on how to create a googl
 Describe the conversations you had this sprint with your product owner(s) and team.
 
 - Describe the product and features you plan to deliver.
+Story Squad is a way to reduce screentime and bring the joy of reading more accessible to children in the digital age. 
 - How did these conversations determine the features you will deliver during Labs?
+Our conversations with stakeholders and previous DS students helped solidify our vision towards what features we want to integrate in the product.
 - How did your discussions change the way you viewed the product?
+The conversations held helped us realize that there are a lot of capabilities the DS team can implement into this product. 
 
 ### Prompt 2
 
 Describe the technical or design discussions that shaped the long-term product vision.
+
+We will be utilizing tensorflow, OCR python libraries, pandas and numerous other technologies to help implement our product visions.
 
 - **For data scientists and engineers:** Describe the technologies that you will use to build this product. Why do they fit the product vision?
 - **For UX designers:** Describe the questions that you are asking during user research. Why have you selected these questions to ask? What is the problem your team is trying to solve?
